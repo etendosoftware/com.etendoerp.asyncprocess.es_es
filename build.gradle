@@ -1,0 +1,56 @@
+/**
+*   This file was generated automatically by the 'createModuleBuild' task.
+*   Created at: 2026-03-23T16:53:39.653542Z.
+*
+*   WARNING: Do not put your credentials directly in this file.
+*
+*/
+
+group          = "com.etendoerp"
+version        = "1.0.0"
+description    = "Spanish translations for the Etendo Async Processes module"
+ext.artifact   = "asyncprocess.es_es"
+ext.repository = "https://maven.pkg.github.com/etendosoftware/com.etendoerp.platform.extensions.es_es"
+
+configurations {
+    moduleDependencyContainer
+}
+
+publishing {
+    publications {
+        "com.etendoerp.asyncprocess.es_es"(MavenPublication) {
+            from components.java
+            groupId    = group
+            artifactId = artifact
+            version    = version
+        }
+    }
+    repositories {
+        maven {
+            url = "https://maven.pkg.github.com/etendosoftware/com.etendoerp.platform.extensions.es_es"
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+    maven {
+        url = "https://maven.pkg.github.com/etendosoftware/com.etendoerp.platform.extensions.es_es"
+    }
+    maven {
+        url = "https://repo.futit.cloud/repository/maven-releases"
+    }
+    maven {
+        url = "https://repo.futit.cloud/repository/maven-public-releases"
+    }
+    maven {
+        url = "https://repo.futit.cloud/repository/maven-public-jars"
+    }
+}
+
+/**
+* Declare Java dependencies using 'implementation'
+* Ex: implementation "com.sun.mail:javax.mail:1.6.2"
+*/
+dependencies {
+}
