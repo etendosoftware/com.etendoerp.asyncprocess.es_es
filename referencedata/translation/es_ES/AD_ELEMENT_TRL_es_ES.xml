@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_ELEMENT" version="">
+  <row id="058D5F59BA2341899A2C38C3350326AF" trl="Y">
+    <value column="Name" isTrl="Y" original="Log">Registro</value>
+    <value column="PrintName" isTrl="Y" original="Log">Registro</value>
+    <value column="Description" isTrl="Y" original="Log record.">Registro de log.</value>
+    <value column="Help" isTrl="Y" original="Log record for an asynchronous process.">Registro de log de un proceso asíncrono.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="3369713F2A4F4DA9938E5499ADB180C5" trl="Y">
+    <value column="Name" isTrl="Y" original="Initial Topic">Tema inicial</value>
+    <value column="PrintName" isTrl="Y" original="Initial Topic">Tema inicial</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="414AE549C87D446394ADCE33CBE105E6" trl="Y">
+    <value column="Name" isTrl="Y" original="Topics are RegExp">Los temas son RegExp</value>
+    <value column="PrintName" isTrl="Y" original="Topics are RegExp">Los temas son RegExp</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="7B8A1E17C4BA4DDDABC02F22FD5D0EB9" trl="Y">
+    <value column="Name" isTrl="Y" original="Line No">Nº de línea</value>
+    <value column="PrintName" isTrl="Y" original="Line No">Nº de línea</value>
+    <value column="Description" isTrl="Y" original="This column is the line number of messages in an asynchronous job execution.">Esta columna es el número de línea de los mensajes en la ejecución de un trabajo asíncrono.</value>
+    <value column="Help" isTrl="Y" original="This column helps maintain the order and spacing of messages, ensuring that each message is uniquely identified after the execution of an asynchronous process.">Esta columna ayuda a mantener el orden y el espaciado de los mensajes, garantizando que cada mensaje se identifique de forma única tras la ejecución de un proceso asíncrono.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="8E45FEC7E7AB424787118D239AAF6574" trl="Y">
+    <value column="Name" isTrl="Y" original="Is Async">Es asíncrono</value>
+    <value column="PrintName" isTrl="Y" original="Is Async">Es asíncrono</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="A4134322C9C04A16937A2D64E4F698F5" trl="Y">
+    <value column="Name" isTrl="Y" original="Log Header">Cabecera del log</value>
+    <value column="PrintName" isTrl="Y" original="Log Header">Cabecera del log</value>
+    <value column="Description" isTrl="Y" original="Log header record.">Registro de cabecera del log.</value>
+    <value column="Help" isTrl="Y" original="Log header record for an asynchronous process.">Registro de cabecera del log de un proceso asíncrono.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="A925FE8AE83549C58236A551AD5C1734" trl="Y">
+    <value column="Name" isTrl="Y" original="Status">Estado</value>
+    <value column="PrintName" isTrl="Y" original="Status">Estado</value>
+    <value column="Description" isTrl="Y" original="Indicates the result status of an asynchronous job execution.">Indica el estado del resultado de la ejecución de un trabajo asíncrono.</value>
+    <value column="Help" isTrl="Y" original="This field defines the result of executing an asynchronous process. The values ​​in this field depend on the executed process.">Este campo define el resultado de la ejecución de un proceso asíncrono. Los valores de este campo dependen del proceso ejecutado.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="B64B7066D341462098030E8CF4FC2C65" trl="Y">
+    <value column="Name" isTrl="Y" original="Error Topic">Tema de error</value>
+    <value column="PrintName" isTrl="Y" original="Error Topic">Tema de error</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="C316224AFDE64D3FA7E317DE3E02514E" trl="Y">
+    <value column="Name" isTrl="Y" original="Message">Mensaje</value>
+    <value column="PrintName" isTrl="Y" original="Message">Mensaje</value>
+    <value column="Description" isTrl="Y" original="Message from the asynchronous process.">Mensaje del proceso asíncrono.</value>
+    <value column="Help" isTrl="Y" original="Message returned by the execution of the asynchronous process. The format of this message may vary depending on the process (text/JSON/XML, etc.).">Mensaje devuelto por la ejecución del proceso asíncrono. El formato de este mensaje puede variar según el proceso (texto/JSON/XML, etc.).</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="D70476D32E1A4332AE56F4727C535E27" trl="Y">
+    <value column="Name" isTrl="Y" original="Target Topic">Tema de destino</value>
+    <value column="PrintName" isTrl="Y" original="Target Topic">Tema de destino</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="E43AC6FABD0843909EE173386729BCAA" trl="Y">
+    <value column="Name" isTrl="Y" original="Target Status">Estado objetivo</value>
+    <value column="PrintName" isTrl="Y" original="Target Status">Estado objetivo</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="E6E3FC7D6EB9404FB5D71BCF0ADB4494" trl="Y">
+    <value column="Name" isTrl="Y" original="Process Identifier">Identificador del proceso</value>
+    <value column="PrintName" isTrl="Y" original="Process Identifier">Identificador del proceso</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="EFC98FB0D91544A69634C8D16CC006E9" trl="Y">
+    <value column="Name" isTrl="Y" original="Create consumer per partition">Crear consumidor por partición</value>
+    <value column="PrintName" isTrl="Y" original="Create consumer per partition">Crear consumidor por partición</value>
+    <value column="Description" isTrl="Y" original="This check establishes the creation for consumers for each topic partition.">Esta opción establece la creación de consumidores para cada partición del tema.</value>
+    <value column="Help" isTrl="Y" original="When is set to True, a consumer is created for each topic partition. This is useful when the topic has multiple partitions and you want to ensure that each partition is processed by a separate consumer. If set to False, only one consumer will be created for the topic, which may lead to uneven load distribution across partitions. This setting is particularly relevant for topics with high throughput or when parallel processing is desired.">Cuando se establece en Verdadero, se crea un consumidor para cada partición del tema. Esto es útil cuando el tema tiene varias particiones y se quiere asegurar que cada partición sea procesada por un consumidor independiente. Si se establece en Falso, solo se creará un consumidor para el tema, lo que puede provocar una distribución de carga desigual entre particiones. Esta configuración es especialmente relevante para temas con alto rendimiento o cuando se desea procesamiento en paralelo.</value>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="F0E10D4DCAC34E339CB51A0B0368FA61" trl="Y">
+    <value column="Name" isTrl="Y" original="Start Time">Comienzo</value>
+    <value column="PrintName" isTrl="Y" original="Start Time">Comienzo</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+  <row id="FB0961D4CEEA4490B8B48EBA86F6D6DA" trl="Y">
+    <value column="Name" isTrl="Y" original="End Time">Fin</value>
+    <value column="PrintName" isTrl="Y" original="End Time">Fin</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+    <value column="PO_Description" isTrl="N" original=""/>
+    <value column="PO_Help" isTrl="N" original=""/>
+    <value column="PO_Name" isTrl="N" original=""/>
+    <value column="PO_PrintName" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

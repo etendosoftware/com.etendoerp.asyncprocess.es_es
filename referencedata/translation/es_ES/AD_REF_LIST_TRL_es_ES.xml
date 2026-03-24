@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_REF_LIST" version="">
+  <row id="491C4BA04A664DE7999CEEC71A0D6CBF" trl="Y">
+    <value column="Name" isTrl="Y" original="STARTED">INICIADO</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="49AA6439BF2C46CE991BADB4618B1099" trl="Y">
+    <value column="Name" isTrl="Y" original="ERROR">ERROR</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="5606CFD458FC4F778E74D63E12C5F11E" trl="Y">
+    <value column="Name" isTrl="Y" original="ACCEPTED">ACEPTADO</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="694F36D33F69410CA3934B6804F3A200" trl="Y">
+    <value column="Name" isTrl="Y" original="WAITING">EN ESPERA</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="D926242922684A3EBE6C6466BAD12D98" trl="Y">
+    <value column="Name" isTrl="Y" original="DONE">HECHO</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="DF3F908A7F0E411097A79C286E398158" trl="Y">
+    <value column="Name" isTrl="Y" original="REJECTED">RECHAZADO</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+</compiereTrl>
