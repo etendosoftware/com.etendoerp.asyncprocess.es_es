@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_REFERENCE" version="">
+  <row id="C6EA8CBA57C54AA8B865538FBB884946" trl="Y">
+    <value column="Name" isTrl="Y" original="ETAP_AsyncProcessStatus">ETAP_AsyncProcessStatus</value>
+    <value column="Description" isTrl="Y" original="Async Process Status">Estado del proceso asíncrono</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

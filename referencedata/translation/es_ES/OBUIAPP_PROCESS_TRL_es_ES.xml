@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="OBUIAPP_PROCESS" version="">
+  <row id="4ED07BDD577D424EA831161AE4BA59EE" trl="Y">
+    <value column="Name" isTrl="Y" original="Async Error Collector">Recolector asíncrono de errores</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="5E45DBA172BA4F17BED6C0B52A9D8926" trl="Y">
+    <value column="Name" isTrl="Y" original="Async Result Collector">Recolector asíncrono de resultados</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="849B956E25DA47E19F9681C23A3F297D" trl="Y">
+    <value column="Name" isTrl="Y" original="AlertProcess">Proceso de alertas</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="8852FB40F5A546598BA2B4F280CFEA1B" trl="Y">
+    <value column="Name" isTrl="Y" original="Log Persistor Processor">Procesador de persistencia de registros</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>
